@@ -1,3 +1,4 @@
+
 module traffic_light (
     input wire clk,
     input wire rst,
